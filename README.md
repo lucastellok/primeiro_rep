@@ -9,3 +9,5 @@
 
 
 tentando alteração sozinho, apenas usando comandos
+
+alteração numero 2 com comandos em terminal
